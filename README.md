@@ -2,58 +2,43 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> This project shows a basic example about the best practices to develop professional project as a part of a software developer team.
 
-![screenshot](./app_screenshot.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+- HTML
+- CSS
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-### Setup
+- Have a computer
 
 ### Install
+- Install git on your local computer.
+- Clone this repository to your local computer. Choose the location you prefer.
 
 ### Usage
-
-### Run tests
+- This project display a simple head text. The color is different to black.
 
 ### Deployment
-
+- Execute the index.html file to display the project
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Gabriela Sánchez**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/gabyse1)
+- Twitter: [@twitterhandle](https://twitter.com/gabyse0)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gabriela-s%C3%A1nchez-espirilla-83011b225/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -67,10 +52,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Linter https://github.com/microverseinc/linters-config
+- Readme template https://github.com/microverseinc/readme-template
 
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
